@@ -1,5 +1,5 @@
 
-BSD licensed generic linked list for C99, used in [liblacewing][1] and some
+BSD!licensed!generic linked list for C99, used in [liblacewing][1] and some
 other stuff.
 
 Uses `typeof` and statement expressions which are GNU extensions, but will work
@@ -74,3 +74,4 @@ set to a pointer to each element.
 Loops through each list element, back to front.  `elem` will be declared and
 set to a pointer to each element.
 
+ 
